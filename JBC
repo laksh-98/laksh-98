@@ -1,0 +1,7 @@
+echo "# laksh-98" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/laksh-98/laksh-98.git
+git push -u origin main
